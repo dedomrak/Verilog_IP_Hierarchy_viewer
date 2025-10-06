@@ -24,5 +24,13 @@ Printscreen png files in ./test folder
 
 ## Screenshots
 Printscreen png files are located in ./doc folder
+Select Verilog IP file:
+![Alt text](/doc/Select_ip.png?raw=true "Optional Title")
 
-![Alt text](/test_file/printscreen_Graphwiz.png?raw=true "Optional Title")
+Loaded modules hierarchy into viewer:
+![Alt text](doc/printscreen_VIPH_viewer.png?raw=true "Optional Title")
+![Alt text](doc/printscreen_VIPH_viewer2.png?raw=true "Optional Title")
+
+Full design hierarchy in generated PNG:
+![Alt text](doc/Full_design_hierarhy.png?raw=true "Optional Title")
+
