@@ -7,10 +7,10 @@ Since the Verific library is a commercial source that is paid for, it is not inc
 
 
 ## Installation
->Download sources from GIT : git clone                            
->Download graphViz library : http://www.graphviz.org/Download.php                                                                          
->Configure GRAPHVIZ_PATH in QGraphViz.pro                                                                     
->Open with Qt Creator & compile
+1. Download sources from GIT : git clone                            
+2. Download graphViz library : http://www.graphviz.org/Download.php                                                                          
+3. Configure GRAPHVIZ_PATH in QGraphViz.pro                                                                     
+4. Open with Qt Creator & compile
     
 ## Build
 Open the provided .pro file in QTCreator and run the build.
