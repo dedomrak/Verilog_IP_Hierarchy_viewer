@@ -2,7 +2,7 @@
 # Verilog_IP_hierarchy_viewer
 
 Verilog IP hierarchy viewer is a GUI tool that can be used to visualize hierarchically the instances and connections between modules in a given IP. Each module has listed ports, parameters and instances.
-It uses Nicolas Bergont's Interactive Qt GraphViz display (https://github.com/nbergont/qgv) and Verific Verilog library parser.
+It uses Nicolas Bergont's Interactive Qt GraphViz display (https://github.com/nbergont/qgv) and Verific Verilog library parser.                                                                                    
 Since the Verific library is a commercial source that is paid for, it is not included here. For information about the Verific Verilog parser and library, see www.verific.com. 
 
 
