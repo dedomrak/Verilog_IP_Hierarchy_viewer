@@ -23,7 +23,7 @@ Printscreen png files in ./test folder
 
 
 ## Screenshots
-Printscreen png files are located in ./doc folder
+Printscreen png files are located in ./doc folder                                                                                 
 Select Verilog IP file:
 ![Alt text](/doc/Select_ip.png?raw=true "Optional Title")
 
