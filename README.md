@@ -1,0 +1,28 @@
+
+# Verilog_IP_hierarchy_viewer
+
+Verilog IP hierarchy viewer is a GUI tool that can be used to visualize hierarchically the instances and connections between modules in a given IP. Each module has listed ports, parameters and instances.
+It uses Nicolas Bergont's Interactive Qt GraphViz display (https://github.com/nbergont/qgv) and Verific Verilog library parser.
+Since the Verific library is a commercial source that is paid for, it is not included here. For information about the Verific Verilog parser and library, see www.verific.com. 
+
+
+## Installation
+>Download sources from GIT : git clone                            
+>Download graphViz library : http://www.graphviz.org/Download.php 
+>Configure GRAPHVIZ_PATH in QGraphViz.pro
+>Open with Qt Creator & compile
+    
+## Build
+Open the provided .pro file in QTCreator and run the build.
+Tested and built in Windows 10, it should open and convert without problems in Linux.
+For a successful build, you need the full source code of Verific.
+Under Linux, after opening the .pro file, a full Makefile is written, which can also be built with the make command.
+## Test
+
+Printscreen png files in ./test folder
+
+
+## Screenshots
+Printscreen png files are located in ./doc folder
+
+![Alt text](/test_file/printscreen_Graphwiz.png?raw=true "Optional Title")
