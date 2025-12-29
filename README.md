@@ -16,7 +16,7 @@ For information about the Verific Verilog parser and library, see www.verific.co
 ## Build
 Open the provided .pro file in QTCreator and run the build.
 Tested and built in Windows 10, it should open and convert without problems in Linux.
-For a successful build, you need the full source code of Verific.
+For a successful build, you need the full source code of the Verific library.
 Under Linux, after opening the .pro file, a full Makefile is written, which can also be built with the make command.
 ## Test
 
